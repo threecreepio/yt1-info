@@ -1,0 +1,210 @@
+
+VENDOR:
+0015: Wooden Shield       
+0016: Copper Shield       
+0019: Gold Shield         
+001a: Cloth Armor         
+001b: Robes               
+001c: Leather Armor       
+001d: Ring Mail           
+0040: Steel Shield +1     
+
+VENDOR:
+0010: Bolts               
+0023: Staff               
+0024: Dagger              
+0026: Club                
+0027: Hammer              
+0028: Mace                
+002a: Flail               
+002c: Knife               
+002d: Short Sword         
+002e: Spear               
+0031: Hand Axe            
+0032: Broad Sword         
+0054: Morning Star +1     
+0066: Cross Bow +1        
+
+VENDOR:
+010e: Torches             
+010b: Mining Tools        
+0013: Mine Cart           
+
+VENDOR:
+000f: Arrows              
+0024: Dagger              
+0025: Silver Dagger       
+0029: Silver Mace         
+002b: Morning Star        
+002c: Knife               
+002d: Short Sword         
+002f: Silver Spear        
+0038: Sling Shot          
+0039: Darts               
+003b: Short Bow           
+003c: Long Bow            
+0057: Spear +1            
+0079: Hammer +2           
+
+VENDOR:
+0127: Map A1              
+0128: Map A2              
+012a: Map A4              
+012c: Map B1              
+0130: Map B5              
+0132: Map C2              
+
+VENDOR:
+010e: Torches             
+010b: Mining Tools        
+0013: Mine Cart           
+
+VENDOR:
+000f: Arrows              
+0010: Bolts               
+0025: Silver Dagger       
+0029: Silver Mace         
+002f: Silver Spear        
+0030: Gold Spear          
+0034: Silver Sword        
+0035: Battle Axe          
+0037: 2-Handed Sword      
+0039: Darts               
+003a: Silver Bow          
+003c: Long Bow            
+005b: Broad Sword +1      
+007f: Short Sword +2      
+
+VENDOR:
+0004: Processed Nuore     
+0114: Black Potion        
+0116: White Potion        
+0118: Pink Potion         
+011a: Green Potion        
+011c: Gold Potion         
+
+VENDOR:
+015d: Flaming Oil Flask   
+010c: Lock Pick Set       
+010e: Torches             
+010f: Coil of Rope        
+0150: Empty Chest         
+
+VENDOR:
+010e: Torches             
+010b: Mining Tools        
+0013: Mine Cart           
+
+VENDOR:
+0015: Wooden Shield       
+0017: Steel Shield        
+0018: Silver Shield       
+001a: Cloth Armor         
+001d: Ring Mail           
+001f: Chain Mail          
+0020: Splint Mail         
+0021: Field Plate         
+0047: Scale Mail Armor +1 
+
+VENDOR:
+0004: Processed Nuore     
+0115: Gray Potion         
+0117: Red Potion          
+0119: Purple Potion       
+011b: Brown Potion        
+011d: Silver Potion       
+
+VENDOR:
+0004: Processed Nuore     
+0114: Black Potion        
+0117: Red Potion          
+0118: Pink Potion         
+011b: Brown Potion        
+011e: Blue Potion         
+
+VENDOR:
+015d: Flaming Oil Flask   
+010c: Lock Pick Set       
+010e: Torches             
+010f: Coil of Rope        
+0150: Empty Chest         
+
+VENDOR:
+0015: Wooden Shield       
+0017: Steel Shield        
+0019: Gold Shield         
+001a: Cloth Armor         
+001b: Robes               
+001e: Scale Mail          
+001f: Chain Mail          
+028a: (unknown)
+
+VENDOR:
+0016: Copper Shield       
+0018: Silver Shield       
+001c: Leather Armor       
+001e: Scale Mail          
+0020: Splint Mail         
+0022: Full Plate          
+
+VENDOR:
+010e: Torches             
+010b: Mining Tools        
+0013: Mine Cart           
+
+VENDOR:
+0127: Map A1              
+012a: Map A4              
+012d: Map B2              
+012e: Map B3              
+012f: Map B4              
+0132: Map C2              
+
+VENDOR:
+000f: Arrows              
+0010: Bolts               
+0028: Mace                
+002b: Morning Star        
+002e: Spear               
+0030: Gold Spear          
+0032: Broad Sword         
+0033: Long Sword          
+0035: Battle Axe          
+0036: Halberd             
+003b: Short Bow           
+003d: Cross Bow           
+005e: Battle Axe +1       
+008b: Darts +2            
+
+VENDOR:
+010e: Torches             
+010b: Mining Tools        
+0013: Mine Cart           
+
+VENDOR:
+0004: Processed Nuore     
+0115: Gray Potion         
+0116: White Potion        
+0117: Red Potion          
+0119: Purple Potion       
+011a: Green Potion        
+011d: Silver Potion       
+
+VENDOR:
+010c: Lock Pick Set       
+010e: Torches             
+010f: Coil of Rope        
+0150: Empty Chest         
+
+VENDOR:
+0129: Map A3              
+012c: Map B1              
+012c: Map B1              
+012d: Map B2              
+0131: Map C1              
+0132: Map C2              
+
+VENDOR:
+010e: Torches             
+010b: Mining Tools        
+0013: Mine Cart           

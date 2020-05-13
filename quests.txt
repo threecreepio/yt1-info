@@ -1,0 +1,27 @@
+GOOD:
+- NEW DEVON: Signed peace treaty in new devon, gives +100k xp and 3 +2 "2 Handed Sword"
+
+
+BAD:
+- PORT HOPE: Return 'Amulet of Anatolay' to Port Hope, +4k xp and 3k gold.
+- HELSINGOR: Return art to Olga, 3k gold, 2k xp
+- MOLOCH: Clear undead in graveyard. 4k~ xp? +25 current HP.. which is good if you can get the bug, if i can remember how.
+
+MAYBE:
+- DUOMIN: Save boy from dragon. 5k gold, 30k xp. Also gives Ring of Protection (dig in cave) with +20 absorb, dont remember if thats good?
+
+
+
+----
+70 dex
+70 str
+
+lv1 to 9 : 45000xp
+
+118081
+70
+250
+44
+73
+42
+17840g

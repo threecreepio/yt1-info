@@ -1,0 +1,264 @@
+sacatte:
+- buy mining cart and max picks
+- exit sacatte
+
+world:
+- head NE to collect the giant lens
+- head west until mine entrance
+- pick up treasure outside entrance
+- enter mine, mine walls until out of picks
+- head to sacatte
+
+sacatte:
+- sell ores
+- buy about 45 picks, save at least 2k gold for arrest etc
+- find and speak to 'Osgood' in mining guild (main room, gray hair, brown pants)
+-  say INCREASE
+-  say YES
+- get arrested (fight)
+
+mantov:
+- pay fine
+- find gabriel, speak
+-  say FLOWERS
+-  say YES
+- OOB to giant city
+
+giant city:
+- turn in treaty to giant king (say TREATY)
+- exit giant city
+
+world:
+- go to mine north of new devon, mine until out of picks (or above 9k nuore)
+- go to new devon
+
+new devon:
+- sell ores (9362 overflows!)
+- buy about 70 picks
+- go to mayors house , say TREATY to aide (100k xp)
+- say INCREASE and YES to Duncan (wandering, by bridge at entrance, Green Dressed Cleric), +4 dex for 8k gold
+- exit new devon
+
+world:
+- go to mine north of new devon, mine until near 9k nuore (9362 overflows!)
+- go to new devon
+new devon:
+- sell ores (if less than 300k gold, keep mining! should take 2-3 times)
+- go to healers, revive all, if needed
+- get arrested (fight)
+
+mantov:
+- go to armor vendor
+-  buy 6 SILVER SHIELD
+-  buy 6 FULL PLATE
+- OOB to Athaneum (portal by Paltivar)
+
+athaneum:
+- level up all characters.. 60 str, 75 dex.. rest in main stat.
+- equip full plate & silver shield
+- 2nd level, pick up Zamoras journal
+- exit
+
+world:
+- go north to thieves town
+
+thieves town:
+- go south to large building
+- go to general store
+-  buy golden key
+- use golden key
+- exit thieves town
+
+world:
+- head north, enter cave
+- go west to treasure, use mine + cast open on treasure
+- speak to flagell
+-  say JOURNAL
+- exit and attack wyvern (north of cave, dont open treasure)
+- return to flagell and speak
+-  say WYVERN
+- attack flagell and exit
+
+mantov:
+- OOB to athaneum
+
+athaneum:
+- speak to griffin (top floor, red clothes + hat)
+-  say JOURNAL
+-  say GRIFFIN
+- attack someone and exit city
+
+mantov:
+- OOB to port hope (all the way south, then west)
+
+port hope:
+- find paundor in mayors house, speak to him
+-  say JOURNAL
+- attack someone and exit city
+
+mantov:
+- find ian (in tavern, gray hair), speak to him
+-  say YES
+-  say WEAPONS
+- OOB to moloch (close south west)
+
+moloch:
+- go to general store (just west of entrance)
+-  buy grapnel arrow
+-  buy coil of rope
+- go to reagent vendor
+-  buy about 1600 processed nuore
+-  buy 7 or so purple potions
+- find Bysette (gray hat + clothes), speak
+-  say JOURNAL
+-  say PAUNDOR
+-  say RING
+- attack Bysette and exit moloch
+
+mantov:
+- OOB to Helsingor (far south west, requires clip)
+clip:
+- clip out at bottom of map
+- go NORTH to room just north of paltivar
+- at the half table, go east and enter the hidden door
+- take two steps north to the wall intersection
+- save game and reload
+- step north
+
+helsingor:
+- talk to gray captain guy in tavern (from outside house)
+-  say FIGHT
+- kill everyone
+- loot pirates chest, get bysettes ring, exit combat
+- attack someone and exit city
+
+mantov:
+- OOB to moloch
+
+moloch:
+- speak to Bysette
+-  say RING (i think, dont recall)
+- attack someone and exit city
+
+mantov:
+- OOB to duomin (just east of giant city)
+
+duomin:
+- find and speak to PREZLIN (green hat + clothes)
+- say JOURNAL
+- say DEAD
+- attack someone and exit city
+
+mantov:
+- OOB to giant city
+- exit giant city and go to new devon
+
+new devon:
+- go south to reagent shop
+- talk to PREZLIN
+- say WINZE
+- say anything
+- exit city
+
+world:
+- enter mine next to giant city
+mine:
+- take cart to monster
+- kill monster
+- head north, dig up and open treasure (has key to anatolay)
+- head east, exit mine
+world:
+- head south + east, find hourglass
+- PICK UP hourglass
+- exit combat immediately
+- use key to anatolay
+
+anatolay:
+- attack someone and exit city
+
+mantov:
+- OOB to outside Port Hope
+
+world:
+- head north to caves
+- in cave, go far north east
+- enter cave door
+- use grapnel arrow on gem
+- use key to anatolay
+
+anatolay:
+- attack someone and exit city
+
+mantov:
+- OOB to Port Hope
+
+port hope:
+- go to paundor
+- say RED GEM
+- attack paundor and exit port hope
+
+mantov:
+- OOB to athaneum
+
+athaneum:
+- speak to GRIFFIN
+- say HOURGLASS
+- attack someone and exit
+
+mantov:
+- OOB to devon
+
+devon:
+- go to cemetary (far west)
+- speak to JOAN (lady by grave)
+-  say FLOWER
+-  say YES
+- speak to WINZE ghost
+-  say JOURNAL
+- enter underworld, find demonacus and kill-kill-kill
+-  loot amulet of lava off demonacus
+- use key to anatolay
+
+anatolay:
+- attack someone and exit city
+
+mantov:
+- OOB to devon
+
+devon:
+- go to cemetary
+- speak to WINZE ghost
+- use key to anatolay
+
+anatolay:
+- attack someone and exit city
+
+mantov:
+- OOB to outside giant city
+
+world:
+- enter cave to the north-east, exit cave to the far east
+- head all the way south to thaine
+- head all the way south to quai's cave
+- kill cynotaur
+- speak to quai
+- say JOURNAL (i think!)
+- attack quai and exit
+
+mantov:
+- OOB to Paltivar using clip
+clip:
+- go just south of the chamber of doors, correct door is south, second from right.
+- save the game just south of that door
+- walk to south of OOB underworld
+- "LOOK" at a broken hill tile
+- take a step north
+- save and reload game
+
+castle:
+- head to paltivar and kill him
+- use horn of encasement on the orb
+- portal to athaneum
+- walk to the healers
+
+stop timer.

@@ -1,0 +1,2445 @@
+[
+    {
+        "id": 1,
+        "partyIdx": "c8",
+        "idStr": "0001",
+        "name": "Gold Coins          ",
+        "details": "00 00 30 00 00 00 00 00 00 00 02 cf 01 01 00"
+    },
+    {
+        "id": 2,
+        "partyIdx": "ca",
+        "idStr": "0002",
+        "name": "Coins in a Chest    ",
+        "details": "00 00 30 00 00 00 00 00 00 00 02 cf 01 50 c3"
+    },
+    {
+        "id": 3,
+        "partyIdx": "cc",
+        "idStr": "0003",
+        "name": "Full Chests of Coins",
+        "details": "00 08 90 00 00 14 00 00 00 00 02 d2 01 0a 00"
+    },
+    {
+        "id": 4,
+        "partyIdx": "ce",
+        "idStr": "0004",
+        "name": "Processed Nuore     ",
+        "details": "00 00 00 00 00 00 00 00 00 00 02 00 00 00 00"
+    },
+    {
+        "id": 5,
+        "partyIdx": "d0",
+        "idStr": "0005",
+        "name": "                    ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 d1 01 0f 00"
+    },
+    {
+        "id": 6,
+        "partyIdx": "d2",
+        "idStr": "0006",
+        "name": "Nuore               ",
+        "details": "00 00 00 00 00 00 00 00 00 00 02 00 00 00 00"
+    },
+    {
+        "id": 7,
+        "partyIdx": "d4",
+        "idStr": "0007",
+        "name": "                    ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 86 02 02 00"
+    },
+    {
+        "id": 8,
+        "partyIdx": "d6",
+        "idStr": "0008",
+        "name": "Lead ore            ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 86 02 02 00"
+    },
+    {
+        "id": 9,
+        "partyIdx": "d8",
+        "idStr": "0009",
+        "name": "Iron ore            ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 83 02 04 00"
+    },
+    {
+        "id": 10,
+        "partyIdx": "da",
+        "idStr": "000a",
+        "name": "Copper ore          ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 86 02 04 00"
+    },
+    {
+        "id": 11,
+        "partyIdx": "dc",
+        "idStr": "000b",
+        "name": "Nickel ore          ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 86 02 06 00"
+    },
+    {
+        "id": 12,
+        "partyIdx": "de",
+        "idStr": "000c",
+        "name": "Silver ore          ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 83 02 0a 00"
+    },
+    {
+        "id": 13,
+        "partyIdx": "e0",
+        "idStr": "000d",
+        "name": "Gold ore            ",
+        "details": "00 10 90 00 00 00 00 00 00 00 02 86 02 0c 00"
+    },
+    {
+        "id": 14,
+        "partyIdx": "e2",
+        "idStr": "000e",
+        "name": "Platinum ore        ",
+        "details": "00 80 90 00 00 00 00 00 00 00 02 cb 01 02 00"
+    },
+    {
+        "id": 15,
+        "partyIdx": "e4",
+        "idStr": "000f",
+        "name": "Arrows              ",
+        "details": "00 80 90 00 00 00 00 00 00 00 02 ca 01 02 00"
+    },
+    {
+        "id": 16,
+        "partyIdx": "e6",
+        "idStr": "0010",
+        "name": "Bolts               ",
+        "details": "00 01 10 00 00 00 00 00 00 00 02 dc 01 c8 00"
+    },
+    {
+        "id": 17,
+        "partyIdx": "e8",
+        "idStr": "0011",
+        "name": "Deed to a horse     ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 80 02 fa 00"
+    },
+    {
+        "id": 18,
+        "partyIdx": "ea",
+        "idStr": "0012",
+        "name": "Magical Horse Shoe  ",
+        "details": "00 10 b0 00 00 00 00 00 00 00 02 b1 02 7d 00"
+    },
+    {
+        "id": 19,
+        "partyIdx": "ec",
+        "idStr": "0013",
+        "name": "Mine Cart           ",
+        "details": "00 04 20 00 00 00 00 00 00 00 02 de 01 00 00"
+    },
+    {
+        "id": 20,
+        "partyIdx": "ee",
+        "idStr": "0014",
+        "name": "World Maps          ",
+        "details": "00 20 d0 00 00 04 19 00 00 00 02 61 02 1e 00"
+    },
+    {
+        "id": 21,
+        "partyIdx": "f0",
+        "idStr": "0015",
+        "name": "Wooden Shield       ",
+        "details": "00 20 d0 00 00 06 23 00 00 00 02 57 02 3c 00"
+    },
+    {
+        "id": 22,
+        "partyIdx": "f2",
+        "idStr": "0016",
+        "name": "Copper Shield       ",
+        "details": "00 20 d0 00 00 08 32 00 00 00 02 4d 02 96 00"
+    },
+    {
+        "id": 23,
+        "partyIdx": "f4",
+        "idStr": "0017",
+        "name": "Steel Shield        ",
+        "details": "00 20 d0 00 00 0a 3c 00 00 00 02 ce 01 f4 01"
+    },
+    {
+        "id": 24,
+        "partyIdx": "f6",
+        "idStr": "0018",
+        "name": "Silver Shield       ",
+        "details": "00 20 d0 00 00 0c 46 00 00 00 02 5b 02 e8 03"
+    },
+    {
+        "id": 25,
+        "partyIdx": "f8",
+        "idStr": "0019",
+        "name": "Gold Shield         ",
+        "details": "00 40 d0 00 00 01 00 14 00 00 02 39 02 08 00"
+    },
+    {
+        "id": 26,
+        "partyIdx": "fa",
+        "idStr": "001a",
+        "name": "Cloth Armor         ",
+        "details": "00 40 d0 00 00 03 00 19 00 00 02 65 02 14 00"
+    },
+    {
+        "id": 27,
+        "partyIdx": "fc",
+        "idStr": "001b",
+        "name": "Robes               ",
+        "details": "00 40 d0 00 00 06 00 23 00 00 02 68 02 32 00"
+    },
+    {
+        "id": 28,
+        "partyIdx": "fe",
+        "idStr": "001c",
+        "name": "Leather Armor       ",
+        "details": "00 40 d0 00 00 09 00 2d 00 00 02 6b 02 78 00"
+    },
+    {
+        "id": 29,
+        "partyIdx": "100",
+        "idStr": "001d",
+        "name": "Ring Mail           ",
+        "details": "00 40 d0 00 00 0c 00 32 00 00 02 6b 02 c8 00"
+    },
+    {
+        "id": 30,
+        "partyIdx": "102",
+        "idStr": "001e",
+        "name": "Scale Mail          ",
+        "details": "00 40 d0 00 00 0f 00 37 00 00 02 6b 02 f4 01"
+    },
+    {
+        "id": 31,
+        "partyIdx": "104",
+        "idStr": "001f",
+        "name": "Chain Mail          ",
+        "details": "00 40 d0 00 00 12 00 41 00 00 02 6b 02 e2 04"
+    },
+    {
+        "id": 32,
+        "partyIdx": "106",
+        "idStr": "0020",
+        "name": "Splint Mail         ",
+        "details": "00 40 d0 00 00 15 00 46 00 00 02 d7 01 c4 09"
+    },
+    {
+        "id": 33,
+        "partyIdx": "108",
+        "idStr": "0021",
+        "name": "Field Plate         ",
+        "details": "00 40 d0 00 00 19 00 4b 00 00 02 d7 01 88 13"
+    },
+    {
+        "id": 34,
+        "partyIdx": "10a",
+        "idStr": "0022",
+        "name": "Full Plate          ",
+        "details": "00 80 d0 00 02 04 19 1e 01 00 02 46 01 0f 00"
+    },
+    {
+        "id": 35,
+        "partyIdx": "10c",
+        "idStr": "0023",
+        "name": "Staff               ",
+        "details": "00 80 d0 00 01 04 14 1e 01 00 02 47 01 0c 00"
+    },
+    {
+        "id": 36,
+        "partyIdx": "10e",
+        "idStr": "0024",
+        "name": "Dagger              ",
+        "details": "00 80 d2 00 01 05 14 23 01 00 02 47 01 32 00"
+    },
+    {
+        "id": 37,
+        "partyIdx": "110",
+        "idStr": "0025",
+        "name": "Silver Dagger       ",
+        "details": "00 80 d0 00 01 04 1e 1e 01 00 02 48 01 08 00"
+    },
+    {
+        "id": 38,
+        "partyIdx": "112",
+        "idStr": "0026",
+        "name": "Club                ",
+        "details": "00 80 d0 00 01 05 23 23 01 00 02 49 01 1e 00"
+    },
+    {
+        "id": 39,
+        "partyIdx": "114",
+        "idStr": "0027",
+        "name": "Hammer              ",
+        "details": "00 80 d0 00 01 06 28 23 01 00 02 0e 02 2d 00"
+    },
+    {
+        "id": 40,
+        "partyIdx": "116",
+        "idStr": "0028",
+        "name": "Mace                ",
+        "details": "00 80 d2 00 01 07 28 28 01 00 02 0e 02 5a 00"
+    },
+    {
+        "id": 41,
+        "partyIdx": "118",
+        "idStr": "0029",
+        "name": "Silver Mace         ",
+        "details": "00 80 d0 00 01 06 23 28 01 00 02 4f 01 32 00"
+    },
+    {
+        "id": 42,
+        "partyIdx": "11a",
+        "idStr": "002a",
+        "name": "Flail               ",
+        "details": "00 80 d0 00 02 09 3c 37 02 00 02 11 02 af 00"
+    },
+    {
+        "id": 43,
+        "partyIdx": "11c",
+        "idStr": "002b",
+        "name": "Morning Star        ",
+        "details": "00 80 d0 00 01 03 14 1e 01 00 02 47 01 08 00"
+    },
+    {
+        "id": 44,
+        "partyIdx": "11e",
+        "idStr": "002c",
+        "name": "Knife               ",
+        "details": "00 80 d1 00 01 06 28 28 01 00 02 50 01 3c 00"
+    },
+    {
+        "id": 45,
+        "partyIdx": "120",
+        "idStr": "002d",
+        "name": "Short Sword         ",
+        "details": "00 80 d0 00 02 07 2d 2d 01 00 02 51 01 4b 00"
+    },
+    {
+        "id": 46,
+        "partyIdx": "122",
+        "idStr": "002e",
+        "name": "Spear               ",
+        "details": "00 80 d2 00 02 08 2d 32 01 00 02 51 01 fa 00"
+    },
+    {
+        "id": 47,
+        "partyIdx": "124",
+        "idStr": "002f",
+        "name": "Silver Spear        ",
+        "details": "00 80 d0 00 02 0b 32 37 02 00 02 51 01 58 02"
+    },
+    {
+        "id": 48,
+        "partyIdx": "126",
+        "idStr": "0030",
+        "name": "Gold Spear          ",
+        "details": "00 80 d0 00 01 05 19 1e 01 00 02 52 01 19 00"
+    },
+    {
+        "id": 49,
+        "partyIdx": "128",
+        "idStr": "0031",
+        "name": "Hand Axe            ",
+        "details": "00 80 d1 00 01 07 32 2d 01 00 02 50 01 64 00"
+    },
+    {
+        "id": 50,
+        "partyIdx": "12a",
+        "idStr": "0032",
+        "name": "Broad Sword         ",
+        "details": "00 80 d1 00 01 0a 37 37 01 00 02 50 01 fa 00"
+    },
+    {
+        "id": 51,
+        "partyIdx": "12c",
+        "idStr": "0033",
+        "name": "Long Sword          ",
+        "details": "00 80 d3 00 01 0b 3c 37 01 00 02 50 01 bc 02"
+    },
+    {
+        "id": 52,
+        "partyIdx": "12e",
+        "idStr": "0034",
+        "name": "Silver Sword        ",
+        "details": "00 80 d0 00 01 0a 3c 37 02 00 02 52 01 18 01"
+    },
+    {
+        "id": 53,
+        "partyIdx": "130",
+        "idStr": "0035",
+        "name": "Battle Axe          ",
+        "details": "00 80 d0 00 02 0d 4b 4b 02 00 02 c8 01 e8 03"
+    },
+    {
+        "id": 54,
+        "partyIdx": "132",
+        "idStr": "0036",
+        "name": "Halberd             ",
+        "details": "00 80 d1 00 01 0f 46 46 02 00 02 50 01 dc 05"
+    },
+    {
+        "id": 55,
+        "partyIdx": "134",
+        "idStr": "0037",
+        "name": "2-Handed Sword      ",
+        "details": "00 80 d0 00 03 03 19 23 02 00 02 c9 01 0f 00"
+    },
+    {
+        "id": 56,
+        "partyIdx": "136",
+        "idStr": "0038",
+        "name": "Sling Shot          ",
+        "details": "00 80 d0 00 03 04 1e 28 01 00 02 ca 01 02 00"
+    },
+    {
+        "id": 57,
+        "partyIdx": "138",
+        "idStr": "0039",
+        "name": "Darts               ",
+        "details": "00 80 da 00 03 08 3c 3c 02 00 02 cc 01 58 02"
+    },
+    {
+        "id": 58,
+        "partyIdx": "13a",
+        "idStr": "003a",
+        "name": "Silver Bow          ",
+        "details": "00 80 d8 00 03 05 2d 2d 02 00 02 cc 01 64 00"
+    },
+    {
+        "id": 59,
+        "partyIdx": "13c",
+        "idStr": "003b",
+        "name": "Short Bow           ",
+        "details": "00 80 d8 00 03 07 37 37 02 00 02 cc 01 5e 01"
+    },
+    {
+        "id": 60,
+        "partyIdx": "13e",
+        "idStr": "003c",
+        "name": "Long Bow            ",
+        "details": "00 80 d4 00 04 09 41 41 02 00 02 cd 01 ee 02"
+    },
+    {
+        "id": 61,
+        "partyIdx": "140",
+        "idStr": "003d",
+        "name": "Cross Bow           ",
+        "details": "00 20 d0 00 00 05 19 00 00 01 02 62 02 2d 00"
+    },
+    {
+        "id": 62,
+        "partyIdx": "142",
+        "idStr": "003e",
+        "name": "Wooden Shield +1    ",
+        "details": "00 20 d0 00 00 07 23 00 00 01 02 58 02 5a 00"
+    },
+    {
+        "id": 63,
+        "partyIdx": "144",
+        "idStr": "003f",
+        "name": "Copper Shield +1    ",
+        "details": "00 20 d0 00 00 09 32 00 00 01 02 50 02 e1 00"
+    },
+    {
+        "id": 64,
+        "partyIdx": "146",
+        "idStr": "0040",
+        "name": "Steel Shield +1     ",
+        "details": "00 20 d0 00 00 0b 3c 00 00 01 02 40 02 ee 02"
+    },
+    {
+        "id": 65,
+        "partyIdx": "148",
+        "idStr": "0041",
+        "name": "Silver Shield +1    ",
+        "details": "00 20 d0 00 00 0d 46 00 00 01 02 5e 02 dc 05"
+    },
+    {
+        "id": 66,
+        "partyIdx": "14a",
+        "idStr": "0042",
+        "name": "Gold Shield +1      ",
+        "details": "00 40 d0 00 00 02 00 14 00 01 02 6c 02 0c 00"
+    },
+    {
+        "id": 67,
+        "partyIdx": "14c",
+        "idStr": "0043",
+        "name": "Cloth Armor +1      ",
+        "details": "00 40 d0 00 00 04 00 19 00 01 02 6f 02 1e 00"
+    },
+    {
+        "id": 68,
+        "partyIdx": "14e",
+        "idStr": "0044",
+        "name": "Robes +1            ",
+        "details": "00 40 d0 00 00 07 00 23 00 01 02 72 02 4b 00"
+    },
+    {
+        "id": 69,
+        "partyIdx": "150",
+        "idStr": "0045",
+        "name": "Leather Armor +1    ",
+        "details": "00 40 d0 00 00 0a 00 2d 00 01 02 75 02 b4 00"
+    },
+    {
+        "id": 70,
+        "partyIdx": "152",
+        "idStr": "0046",
+        "name": "Ring Mail Armor +1  ",
+        "details": "00 40 d0 00 00 0d 00 32 00 01 02 75 02 2c 01"
+    },
+    {
+        "id": 71,
+        "partyIdx": "154",
+        "idStr": "0047",
+        "name": "Scale Mail Armor +1 ",
+        "details": "00 40 d0 00 00 10 00 37 00 01 02 75 02 ee 02"
+    },
+    {
+        "id": 72,
+        "partyIdx": "156",
+        "idStr": "0048",
+        "name": "Chain Mail Armor +1 ",
+        "details": "00 40 d0 00 00 13 00 41 00 01 02 75 02 53 07"
+    },
+    {
+        "id": 73,
+        "partyIdx": "158",
+        "idStr": "0049",
+        "name": "Splint Mail Armor +1",
+        "details": "00 40 d0 00 00 16 00 46 00 01 02 43 02 a6 0e"
+    },
+    {
+        "id": 74,
+        "partyIdx": "15a",
+        "idStr": "004a",
+        "name": "Field Plate Armor +1",
+        "details": "00 40 d0 00 00 1a 00 4b 00 01 02 43 02 4c 1d"
+    },
+    {
+        "id": 75,
+        "partyIdx": "15c",
+        "idStr": "004b",
+        "name": "Full Plate Armor +1 ",
+        "details": "00 80 d0 00 02 05 19 1e 01 01 02 15 02 16 00"
+    },
+    {
+        "id": 76,
+        "partyIdx": "15e",
+        "idStr": "004c",
+        "name": "Staff +1            ",
+        "details": "00 80 d0 00 01 05 14 1e 01 01 02 18 02 12 00"
+    },
+    {
+        "id": 77,
+        "partyIdx": "160",
+        "idStr": "004d",
+        "name": "Dagger +1           ",
+        "details": "00 80 d2 00 01 06 14 23 01 01 02 18 02 4b 00"
+    },
+    {
+        "id": 78,
+        "partyIdx": "162",
+        "idStr": "004e",
+        "name": "Silver Dagger +1    ",
+        "details": "00 80 d0 00 01 05 1e 1e 01 01 02 1b 02 0c 00"
+    },
+    {
+        "id": 79,
+        "partyIdx": "164",
+        "idStr": "004f",
+        "name": "Club +1             ",
+        "details": "00 80 d0 00 01 06 23 23 01 01 02 1c 02 2d 00"
+    },
+    {
+        "id": 80,
+        "partyIdx": "166",
+        "idStr": "0050",
+        "name": "Hammer +1           ",
+        "details": "00 80 d0 00 01 07 28 23 01 01 02 44 02 43 00"
+    },
+    {
+        "id": 81,
+        "partyIdx": "168",
+        "idStr": "0051",
+        "name": "Mace +1             ",
+        "details": "00 80 d2 00 01 08 28 28 01 01 02 44 02 87 00"
+    },
+    {
+        "id": 82,
+        "partyIdx": "16a",
+        "idStr": "0052",
+        "name": "Silver Mace +1      ",
+        "details": "00 80 d0 00 01 07 23 28 01 01 02 1f 02 4b 00"
+    },
+    {
+        "id": 83,
+        "partyIdx": "16c",
+        "idStr": "0053",
+        "name": "Flail +1            ",
+        "details": "00 80 d0 00 02 0a 3c 37 02 01 02 47 02 06 01"
+    },
+    {
+        "id": 84,
+        "partyIdx": "16e",
+        "idStr": "0054",
+        "name": "Morning Star +1     ",
+        "details": "00 80 d0 00 01 04 14 1e 01 01 02 18 02 0c 00"
+    },
+    {
+        "id": 85,
+        "partyIdx": "170",
+        "idStr": "0055",
+        "name": "Knife +1            ",
+        "details": "00 80 d1 00 01 07 28 2d 01 01 02 22 02 5a 00"
+    },
+    {
+        "id": 86,
+        "partyIdx": "172",
+        "idStr": "0056",
+        "name": "Short Sword +1      ",
+        "details": "00 80 d0 00 02 08 2d 2d 01 01 02 25 02 70 00"
+    },
+    {
+        "id": 87,
+        "partyIdx": "174",
+        "idStr": "0057",
+        "name": "Spear +1            ",
+        "details": "00 80 d2 00 02 09 2d 32 01 01 02 25 02 77 01"
+    },
+    {
+        "id": 88,
+        "partyIdx": "176",
+        "idStr": "0058",
+        "name": "Silver Spear +1     ",
+        "details": "00 80 d0 00 02 0c 32 37 01 01 02 25 02 84 03"
+    },
+    {
+        "id": 89,
+        "partyIdx": "178",
+        "idStr": "0059",
+        "name": "Gold Spear +1       ",
+        "details": "00 80 d0 00 01 06 19 1e 01 01 02 2f 02 25 00"
+    },
+    {
+        "id": 90,
+        "partyIdx": "17a",
+        "idStr": "005a",
+        "name": "Hand Axe +1         ",
+        "details": "00 80 d1 00 01 08 32 2d 01 01 02 22 02 96 00"
+    },
+    {
+        "id": 91,
+        "partyIdx": "17c",
+        "idStr": "005b",
+        "name": "Broad Sword +1      ",
+        "details": "00 80 d1 00 01 0b 37 37 01 01 02 22 02 77 01"
+    },
+    {
+        "id": 92,
+        "partyIdx": "17e",
+        "idStr": "005c",
+        "name": "Long Sword +1       ",
+        "details": "00 80 d3 00 01 0c 3c 37 01 01 02 22 02 1a 04"
+    },
+    {
+        "id": 93,
+        "partyIdx": "180",
+        "idStr": "005d",
+        "name": "Silver Sword +1     ",
+        "details": "00 80 d0 00 01 0b 3c 37 02 01 02 2f 02 a4 01"
+    },
+    {
+        "id": 94,
+        "partyIdx": "182",
+        "idStr": "005e",
+        "name": "Battle Axe +1       ",
+        "details": "00 80 d0 00 02 0e 4b 4b 02 01 02 30 02 ca 08"
+    },
+    {
+        "id": 95,
+        "partyIdx": "184",
+        "idStr": "005f",
+        "name": "Halberd +1          ",
+        "details": "00 80 d1 00 01 10 46 46 02 01 02 22 02 8c 0a"
+    },
+    {
+        "id": 96,
+        "partyIdx": "186",
+        "idStr": "0060",
+        "name": "2 Handed Sword +1   ",
+        "details": "00 80 d0 00 03 04 19 23 02 01 02 33 02 16 00"
+    },
+    {
+        "id": 97,
+        "partyIdx": "188",
+        "idStr": "0061",
+        "name": "Sling Shot +1       ",
+        "details": "00 80 d0 00 03 03 1e 28 01 01 02 90 02 03 00"
+    },
+    {
+        "id": 98,
+        "partyIdx": "18a",
+        "idStr": "0062",
+        "name": "Darts +1            ",
+        "details": "00 80 da 00 03 09 3c 3c 02 01 02 3a 02 84 03"
+    },
+    {
+        "id": 99,
+        "partyIdx": "18c",
+        "idStr": "0063",
+        "name": "Silver Bow +1       ",
+        "details": "00 80 d8 00 03 06 2d 2d 02 01 02 3a 02 96 00"
+    },
+    {
+        "id": 100,
+        "partyIdx": "18e",
+        "idStr": "0064",
+        "name": "Short Bow +1        ",
+        "details": "00 80 d8 00 03 08 37 37 02 01 02 3a 02 0d 02"
+    },
+    {
+        "id": 101,
+        "partyIdx": "190",
+        "idStr": "0065",
+        "name": "Long Bow +1         ",
+        "details": "00 80 d4 00 04 0a 41 41 02 01 02 3d 02 65 04"
+    },
+    {
+        "id": 102,
+        "partyIdx": "192",
+        "idStr": "0066",
+        "name": "Cross Bow +1        ",
+        "details": "00 20 d0 00 00 06 19 00 00 02 02 62 02 43 00"
+    },
+    {
+        "id": 103,
+        "partyIdx": "194",
+        "idStr": "0067",
+        "name": "Wooden Shield +2    ",
+        "details": "00 20 d0 00 00 08 23 00 00 02 02 58 02 87 00"
+    },
+    {
+        "id": 104,
+        "partyIdx": "196",
+        "idStr": "0068",
+        "name": "Copper Shield +2    ",
+        "details": "00 20 d0 00 00 0a 32 00 00 02 02 50 02 54 01"
+    },
+    {
+        "id": 105,
+        "partyIdx": "198",
+        "idStr": "0069",
+        "name": "Steel Shield +2     ",
+        "details": "00 20 d0 00 00 0c 3c 00 00 02 02 40 02 65 04"
+    },
+    {
+        "id": 106,
+        "partyIdx": "19a",
+        "idStr": "006a",
+        "name": "Silver Shield +2    ",
+        "details": "00 20 d0 00 00 0e 46 00 00 02 02 5e 02 ca 08"
+    },
+    {
+        "id": 107,
+        "partyIdx": "19c",
+        "idStr": "006b",
+        "name": "Gold Shield +2      ",
+        "details": "00 40 d0 00 00 03 00 14 00 02 02 6c 02 12 00"
+    },
+    {
+        "id": 108,
+        "partyIdx": "19e",
+        "idStr": "006c",
+        "name": "Cloth Armor +2      ",
+        "details": "00 40 d0 00 00 03 00 19 00 02 02 6f 02 2d 00"
+    },
+    {
+        "id": 109,
+        "partyIdx": "1a0",
+        "idStr": "006d",
+        "name": "Robes +2            ",
+        "details": "00 40 d0 00 00 08 00 23 00 02 02 72 02 70 00"
+    },
+    {
+        "id": 110,
+        "partyIdx": "1a2",
+        "idStr": "006e",
+        "name": "Leather Armor +2    ",
+        "details": "00 40 d0 00 00 0b 00 2d 00 02 02 75 02 0e 01"
+    },
+    {
+        "id": 111,
+        "partyIdx": "1a4",
+        "idStr": "006f",
+        "name": "Ring Mail Armor +2  ",
+        "details": "00 40 d0 00 00 0e 00 32 00 02 02 75 02 c2 01"
+    },
+    {
+        "id": 112,
+        "partyIdx": "1a6",
+        "idStr": "0070",
+        "name": "Scale Mail Armor +2 ",
+        "details": "00 40 d0 00 00 11 00 37 00 02 02 75 02 65 04"
+    },
+    {
+        "id": 113,
+        "partyIdx": "1a8",
+        "idStr": "0071",
+        "name": "Chain Mail Armor +2 ",
+        "details": "00 40 d0 00 00 14 00 41 00 02 02 75 02 f0 0a"
+    },
+    {
+        "id": 114,
+        "partyIdx": "1aa",
+        "idStr": "0072",
+        "name": "Splint Mail Armor +2",
+        "details": "00 40 d0 00 00 17 00 46 00 02 02 43 02 2a 12"
+    },
+    {
+        "id": 115,
+        "partyIdx": "1ac",
+        "idStr": "0073",
+        "name": "Field Plate Armor +2",
+        "details": "00 40 d0 00 00 1b 00 4b 00 02 02 43 02 f2 2b"
+    },
+    {
+        "id": 116,
+        "partyIdx": "1ae",
+        "idStr": "0074",
+        "name": "Full Plate Armor +2 ",
+        "details": "00 80 d0 00 01 06 19 1e 01 02 02 15 02 21 00"
+    },
+    {
+        "id": 117,
+        "partyIdx": "1b0",
+        "idStr": "0075",
+        "name": "Staff +2            ",
+        "details": "00 80 d0 00 01 06 14 1e 01 02 02 18 02 1b 00"
+    },
+    {
+        "id": 118,
+        "partyIdx": "1b2",
+        "idStr": "0076",
+        "name": "Dagger +2           ",
+        "details": "00 80 d2 00 01 07 14 23 01 02 02 18 02 70 00"
+    },
+    {
+        "id": 119,
+        "partyIdx": "1b4",
+        "idStr": "0077",
+        "name": "Silver Dagger +2    ",
+        "details": "00 80 d0 00 01 06 1e 1e 01 02 02 1b 02 12 00"
+    },
+    {
+        "id": 120,
+        "partyIdx": "1b6",
+        "idStr": "0078",
+        "name": "Club +2             ",
+        "details": "00 80 d0 00 01 07 23 23 01 02 02 1c 02 43 00"
+    },
+    {
+        "id": 121,
+        "partyIdx": "1b8",
+        "idStr": "0079",
+        "name": "Hammer +2           ",
+        "details": "00 80 d0 00 01 08 28 23 01 02 02 44 02 64 00"
+    },
+    {
+        "id": 122,
+        "partyIdx": "1ba",
+        "idStr": "007a",
+        "name": "Mace +2             ",
+        "details": "00 80 d2 00 01 09 28 28 01 02 02 44 02 ca 00"
+    },
+    {
+        "id": 123,
+        "partyIdx": "1bc",
+        "idStr": "007b",
+        "name": "Silver Mace +2      ",
+        "details": "00 80 d0 00 01 08 23 28 01 02 02 1f 02 70 00"
+    },
+    {
+        "id": 124,
+        "partyIdx": "1be",
+        "idStr": "007c",
+        "name": "Flail +2            ",
+        "details": "00 80 d0 00 02 0b 3c 37 02 02 02 47 02 89 01"
+    },
+    {
+        "id": 125,
+        "partyIdx": "1c0",
+        "idStr": "007d",
+        "name": "Morning Star +2     ",
+        "details": "00 80 d0 00 01 05 14 1e 01 02 02 18 02 12 00"
+    },
+    {
+        "id": 126,
+        "partyIdx": "1c2",
+        "idStr": "007e",
+        "name": "Knife +2            ",
+        "details": "00 80 d1 00 01 08 28 2d 01 02 02 22 02 87 00"
+    },
+    {
+        "id": 127,
+        "partyIdx": "1c4",
+        "idStr": "007f",
+        "name": "Short Sword +2      ",
+        "details": "00 80 d0 00 02 09 2d 2d 01 02 02 25 02 a8 00"
+    },
+    {
+        "id": 128,
+        "partyIdx": "1c6",
+        "idStr": "0080",
+        "name": "Spear +2            ",
+        "details": "00 80 d2 00 02 0a 2d 32 01 02 02 25 02 32 02"
+    },
+    {
+        "id": 129,
+        "partyIdx": "1c8",
+        "idStr": "0081",
+        "name": "Silver Spear +2     ",
+        "details": "00 80 d0 00 02 0d 32 37 01 02 02 25 02 46 05"
+    },
+    {
+        "id": 130,
+        "partyIdx": "1ca",
+        "idStr": "0082",
+        "name": "Gold Spear +2       ",
+        "details": "00 80 d0 00 01 07 19 1e 01 02 02 2f 02 37 00"
+    },
+    {
+        "id": 131,
+        "partyIdx": "1cc",
+        "idStr": "0083",
+        "name": "Hand Axe +2         ",
+        "details": "00 80 d1 00 01 09 32 2d 01 02 02 22 02 e1 00"
+    },
+    {
+        "id": 132,
+        "partyIdx": "1ce",
+        "idStr": "0084",
+        "name": "Broad Sword +2      ",
+        "details": "00 80 d1 00 01 0c 37 37 01 02 02 22 02 32 02"
+    },
+    {
+        "id": 133,
+        "partyIdx": "1d0",
+        "idStr": "0085",
+        "name": "Long Sword +2       ",
+        "details": "00 80 d3 00 01 0d 3c 37 01 02 02 22 02 27 06"
+    },
+    {
+        "id": 134,
+        "partyIdx": "1d2",
+        "idStr": "0086",
+        "name": "Silver Sword +2     ",
+        "details": "00 80 d0 00 01 0c 3c 37 02 02 02 2f 02 76 02"
+    },
+    {
+        "id": 135,
+        "partyIdx": "1d4",
+        "idStr": "0087",
+        "name": "Battle Axe +2       ",
+        "details": "00 80 d0 00 02 0f 4b 4b 02 02 02 30 02 48 0d"
+    },
+    {
+        "id": 136,
+        "partyIdx": "1d6",
+        "idStr": "0088",
+        "name": "Halberd +2          ",
+        "details": "00 80 d1 00 01 11 46 46 02 02 02 22 02 d2 0f"
+    },
+    {
+        "id": 137,
+        "partyIdx": "1d8",
+        "idStr": "0089",
+        "name": "2 Handed Sword +2   ",
+        "details": "00 80 d0 00 03 05 19 23 02 02 02 33 02 21 00"
+    },
+    {
+        "id": 138,
+        "partyIdx": "1da",
+        "idStr": "008a",
+        "name": "Sling Shot +2       ",
+        "details": "00 80 d0 00 03 04 1e 28 01 02 02 90 02 04 00"
+    },
+    {
+        "id": 139,
+        "partyIdx": "1dc",
+        "idStr": "008b",
+        "name": "Darts +2            ",
+        "details": "00 80 da 00 03 0a 3c 3c 02 02 02 3a 02 46 05"
+    },
+    {
+        "id": 140,
+        "partyIdx": "1de",
+        "idStr": "008c",
+        "name": "Silver Bow +2       ",
+        "details": "00 80 d8 00 03 07 2d 2d 02 02 02 3a 02 e1 00"
+    },
+    {
+        "id": 141,
+        "partyIdx": "1e0",
+        "idStr": "008d",
+        "name": "Short Bow +2        ",
+        "details": "00 80 d8 00 03 09 37 37 02 02 02 3a 02 20 03"
+    },
+    {
+        "id": 142,
+        "partyIdx": "1e2",
+        "idStr": "008e",
+        "name": "Long Bow +2         ",
+        "details": "00 80 d4 00 04 0b 41 41 02 02 02 3d 02 a4 06"
+    },
+    {
+        "id": 143,
+        "partyIdx": "1e4",
+        "idStr": "008f",
+        "name": "Cross Bow +2        ",
+        "details": "00 20 d0 00 00 07 19 00 00 03 02 62 02 64 00"
+    },
+    {
+        "id": 144,
+        "partyIdx": "1e6",
+        "idStr": "0090",
+        "name": "Wooden Shield +3    ",
+        "details": "00 20 d0 00 00 09 23 00 00 03 02 58 02 ca 00"
+    },
+    {
+        "id": 145,
+        "partyIdx": "1e8",
+        "idStr": "0091",
+        "name": "Copper Shield +3    ",
+        "details": "00 20 d0 00 00 0b 32 00 00 03 02 50 02 fe 01"
+    },
+    {
+        "id": 146,
+        "partyIdx": "1ea",
+        "idStr": "0092",
+        "name": "Steel Shield +3     ",
+        "details": "00 20 d0 00 00 0d 3c 00 00 03 02 40 02 a4 06"
+    },
+    {
+        "id": 147,
+        "partyIdx": "1ec",
+        "idStr": "0093",
+        "name": "Silver Shield +3    ",
+        "details": "00 20 d0 00 00 0f 46 00 00 03 02 5e 02 2f 0d"
+    },
+    {
+        "id": 148,
+        "partyIdx": "1ee",
+        "idStr": "0094",
+        "name": "Gold Shield +3      ",
+        "details": "00 40 d0 00 00 04 00 14 00 03 02 6c 02 1b 00"
+    },
+    {
+        "id": 149,
+        "partyIdx": "1f0",
+        "idStr": "0095",
+        "name": "Cloth Armor +3      ",
+        "details": "00 40 d0 00 00 06 00 19 00 03 02 6f 02 43 00"
+    },
+    {
+        "id": 150,
+        "partyIdx": "1f2",
+        "idStr": "0096",
+        "name": "Robes +3            ",
+        "details": "00 40 d0 00 00 09 00 23 00 03 02 72 02 a8 00"
+    },
+    {
+        "id": 151,
+        "partyIdx": "1f4",
+        "idStr": "0097",
+        "name": "Leather Armor +3    ",
+        "details": "00 40 d0 00 00 0c 00 2d 00 03 02 75 02 95 01"
+    },
+    {
+        "id": 152,
+        "partyIdx": "1f6",
+        "idStr": "0098",
+        "name": "Ring Mail Armor +3  ",
+        "details": "00 40 d0 00 00 0f 00 32 00 03 02 75 02 a3 02"
+    },
+    {
+        "id": 153,
+        "partyIdx": "1f8",
+        "idStr": "0099",
+        "name": "Scale Mail Armor +3 ",
+        "details": "00 40 d0 00 00 12 00 37 00 03 02 75 02 a4 06"
+    },
+    {
+        "id": 154,
+        "partyIdx": "1fa",
+        "idStr": "009a",
+        "name": "Chain Mail Armor +3 ",
+        "details": "00 40 d0 00 00 15 00 41 00 03 02 75 02 68 10"
+    },
+    {
+        "id": 155,
+        "partyIdx": "1fc",
+        "idStr": "009b",
+        "name": "Splint Mail Armor +3",
+        "details": "00 40 d0 00 00 18 00 46 00 03 02 43 02 3f 1b"
+    },
+    {
+        "id": 156,
+        "partyIdx": "1fe",
+        "idStr": "009c",
+        "name": "Field Plate Armor +3",
+        "details": "00 40 d0 00 00 1c 00 4b 00 03 02 43 02 eb 41"
+    },
+    {
+        "id": 157,
+        "partyIdx": "200",
+        "idStr": "009d",
+        "name": "Full Plate Armor +3 ",
+        "details": "00 80 d0 00 02 07 19 1e 01 03 02 15 02 2d 00"
+    },
+    {
+        "id": 158,
+        "partyIdx": "202",
+        "idStr": "009e",
+        "name": "Staff +3            ",
+        "details": "00 80 d0 00 01 07 14 1e 01 03 02 18 02 28 00"
+    },
+    {
+        "id": 159,
+        "partyIdx": "204",
+        "idStr": "009f",
+        "name": "Dagger +3           ",
+        "details": "00 80 d2 00 01 08 14 23 01 03 02 18 02 a8 00"
+    },
+    {
+        "id": 160,
+        "partyIdx": "206",
+        "idStr": "00a0",
+        "name": "Silver Dagger +3    ",
+        "details": "00 80 d0 00 01 07 1e 1e 01 03 02 1b 02 1b 00"
+    },
+    {
+        "id": 161,
+        "partyIdx": "208",
+        "idStr": "00a1",
+        "name": "Club +3             ",
+        "details": "00 80 d0 00 01 08 23 23 01 03 02 1c 02 64 00"
+    },
+    {
+        "id": 162,
+        "partyIdx": "20a",
+        "idStr": "00a2",
+        "name": "Hammer +3           ",
+        "details": "00 80 d0 00 01 09 28 23 01 03 02 44 02 96 00"
+    },
+    {
+        "id": 163,
+        "partyIdx": "20c",
+        "idStr": "00a3",
+        "name": "Mace +3             ",
+        "details": "00 80 d2 00 01 0a 28 28 01 03 02 44 02 2f 01"
+    },
+    {
+        "id": 164,
+        "partyIdx": "20e",
+        "idStr": "00a4",
+        "name": "Silver Mace +3      ",
+        "details": "00 80 d0 00 01 09 23 28 01 03 02 1f 02 a8 00"
+    },
+    {
+        "id": 165,
+        "partyIdx": "210",
+        "idStr": "00a5",
+        "name": "Flail +3            ",
+        "details": "00 80 d0 00 02 0c 3c 37 02 03 02 47 02 4d 02"
+    },
+    {
+        "id": 166,
+        "partyIdx": "212",
+        "idStr": "00a6",
+        "name": "Morning Star +3     ",
+        "details": "00 80 d0 00 01 06 14 1e 01 03 02 18 02 1b 00"
+    },
+    {
+        "id": 167,
+        "partyIdx": "214",
+        "idStr": "00a7",
+        "name": "Knife +3            ",
+        "details": "00 80 d1 00 01 09 28 2d 01 03 02 22 02 ca 00"
+    },
+    {
+        "id": 168,
+        "partyIdx": "216",
+        "idStr": "00a8",
+        "name": "Short Sword +3      ",
+        "details": "00 80 d0 00 02 0a 2d 2d 01 03 02 25 02 fc 00"
+    },
+    {
+        "id": 169,
+        "partyIdx": "218",
+        "idStr": "00a9",
+        "name": "Spear +3            ",
+        "details": "00 80 d2 00 02 0b 2d 32 01 03 02 25 02 4b 03"
+    },
+    {
+        "id": 170,
+        "partyIdx": "21a",
+        "idStr": "00aa",
+        "name": "Silver Spear +3     ",
+        "details": "00 80 d0 00 02 0e 32 37 01 03 02 25 02 e9 07"
+    },
+    {
+        "id": 171,
+        "partyIdx": "21c",
+        "idStr": "00ab",
+        "name": "Gold Spear +3       ",
+        "details": "00 80 d0 00 01 08 19 1e 01 03 02 2f 02 52 00"
+    },
+    {
+        "id": 172,
+        "partyIdx": "21e",
+        "idStr": "00ac",
+        "name": "Hand Axe +3         ",
+        "details": "00 80 d1 00 01 0a 32 2d 01 03 02 22 02 51 01"
+    },
+    {
+        "id": 173,
+        "partyIdx": "220",
+        "idStr": "00ad",
+        "name": "Broad Sword +3      ",
+        "details": "00 80 d1 00 01 0d 37 37 01 03 02 22 02 4b 03"
+    },
+    {
+        "id": 174,
+        "partyIdx": "222",
+        "idStr": "00ae",
+        "name": "Long Sword +3       ",
+        "details": "00 80 d3 00 01 0e 3c 37 01 03 02 22 02 3a 09"
+    },
+    {
+        "id": 175,
+        "partyIdx": "224",
+        "idStr": "00af",
+        "name": "Silver Sword +3     ",
+        "details": "00 80 d0 00 01 0d 3c 37 02 03 02 2f 02 b1 03"
+    },
+    {
+        "id": 176,
+        "partyIdx": "226",
+        "idStr": "00b0",
+        "name": "Battle Axe +3       ",
+        "details": "00 80 d0 00 02 10 4b 4b 02 03 02 30 02 ec 13"
+    },
+    {
+        "id": 177,
+        "partyIdx": "228",
+        "idStr": "00b1",
+        "name": "Halberd +3          ",
+        "details": "00 80 d1 00 01 11 46 46 02 03 02 22 02 bb 17"
+    },
+    {
+        "id": 178,
+        "partyIdx": "22a",
+        "idStr": "00b2",
+        "name": "2 Handed Sword +3   ",
+        "details": "00 80 d0 00 03 06 19 23 02 03 02 33 02 2d 00"
+    },
+    {
+        "id": 179,
+        "partyIdx": "22c",
+        "idStr": "00b3",
+        "name": "Sling Shot +3       ",
+        "details": "00 80 d0 00 03 05 1e 28 01 03 02 90 02 06 00"
+    },
+    {
+        "id": 180,
+        "partyIdx": "22e",
+        "idStr": "00b4",
+        "name": "Darts +3            ",
+        "details": "00 80 da 00 03 0b 3c 3c 02 03 02 3a 02 e9 07"
+    },
+    {
+        "id": 181,
+        "partyIdx": "230",
+        "idStr": "00b5",
+        "name": "Silver Bow +3       ",
+        "details": "00 80 d8 00 03 08 2d 2d 02 03 02 3a 02 54 01"
+    },
+    {
+        "id": 182,
+        "partyIdx": "232",
+        "idStr": "00b6",
+        "name": "Short Bow +3        ",
+        "details": "00 80 d8 00 03 0a 37 37 02 03 02 3a 02 b0 04"
+    },
+    {
+        "id": 183,
+        "partyIdx": "234",
+        "idStr": "00b7",
+        "name": "Long Bow +3         ",
+        "details": "00 80 d4 00 04 0c 41 41 02 03 02 3d 02 f1 0e"
+    },
+    {
+        "id": 184,
+        "partyIdx": "236",
+        "idStr": "00b8",
+        "name": "Cross Bow +3        ",
+        "details": "00 20 d0 00 00 08 19 00 00 04 02 62 02 96 00"
+    },
+    {
+        "id": 185,
+        "partyIdx": "238",
+        "idStr": "00b9",
+        "name": "Wooden Shield +4    ",
+        "details": "00 20 d0 00 00 0a 23 00 00 04 02 58 02 2f 01"
+    },
+    {
+        "id": 186,
+        "partyIdx": "23a",
+        "idStr": "00ba",
+        "name": "Copper Shield +4    ",
+        "details": "00 20 d0 00 00 0c 32 00 00 04 02 50 02 fd 02"
+    },
+    {
+        "id": 187,
+        "partyIdx": "23c",
+        "idStr": "00bb",
+        "name": "Steel Shield +4     ",
+        "details": "00 20 d0 00 00 0e 3c 00 00 04 02 40 02 f6 09"
+    },
+    {
+        "id": 188,
+        "partyIdx": "23e",
+        "idStr": "00bc",
+        "name": "Silver Shield +4    ",
+        "details": "00 20 d0 00 00 10 46 00 00 04 02 5e 02 ba 13"
+    },
+    {
+        "id": 189,
+        "partyIdx": "240",
+        "idStr": "00bd",
+        "name": "Gold Shield +4      ",
+        "details": "00 40 d0 00 00 05 00 14 00 04 02 6c 02 28 00"
+    },
+    {
+        "id": 190,
+        "partyIdx": "242",
+        "idStr": "00be",
+        "name": "Cloth Armor +4      ",
+        "details": "00 40 d0 00 00 07 00 19 00 04 02 6f 02 64 00"
+    },
+    {
+        "id": 191,
+        "partyIdx": "244",
+        "idStr": "00bf",
+        "name": "Robes +4            ",
+        "details": "00 40 d0 00 00 0a 00 23 00 04 02 72 02 fc 00"
+    },
+    {
+        "id": 192,
+        "partyIdx": "246",
+        "idStr": "00c0",
+        "name": "Leather Armor +4    ",
+        "details": "00 40 d0 00 00 0d 00 2d 00 04 02 75 02 5f 02"
+    },
+    {
+        "id": 193,
+        "partyIdx": "248",
+        "idStr": "00c1",
+        "name": "Ring Mail Armor +4  ",
+        "details": "00 40 d0 00 00 10 00 32 00 04 02 75 02 f4 03"
+    },
+    {
+        "id": 194,
+        "partyIdx": "24a",
+        "idStr": "00c2",
+        "name": "Scale Mail Armor +4 ",
+        "details": "00 40 d0 00 00 13 00 37 00 04 02 75 02 f6 09"
+    },
+    {
+        "id": 195,
+        "partyIdx": "24c",
+        "idStr": "00c3",
+        "name": "Chain Mail Armor +4 ",
+        "details": "00 40 d0 00 00 16 00 41 00 04 02 75 02 9c 18"
+    },
+    {
+        "id": 196,
+        "partyIdx": "24e",
+        "idStr": "00c4",
+        "name": "Splint Mail Armor +4",
+        "details": "00 40 d0 00 00 19 00 46 00 04 02 43 02 04 29"
+    },
+    {
+        "id": 197,
+        "partyIdx": "250",
+        "idStr": "00c5",
+        "name": "Field Plate Armor +4",
+        "details": "00 40 d0 00 00 1d 00 4b 00 04 02 43 02 d4 62"
+    },
+    {
+        "id": 198,
+        "partyIdx": "252",
+        "idStr": "00c6",
+        "name": "Full Plate Armor +4 ",
+        "details": "00 80 d0 00 02 08 19 1e 01 04 02 15 02 49 00"
+    },
+    {
+        "id": 199,
+        "partyIdx": "254",
+        "idStr": "00c7",
+        "name": "Staff +4            ",
+        "details": "00 80 d0 00 01 08 14 1e 01 04 02 18 02 3c 00"
+    },
+    {
+        "id": 200,
+        "partyIdx": "256",
+        "idStr": "00c8",
+        "name": "Dagger +4           ",
+        "details": "00 80 d2 00 01 09 14 23 01 04 02 18 02 fc 00"
+    },
+    {
+        "id": 201,
+        "partyIdx": "258",
+        "idStr": "00c9",
+        "name": "Silver Dagger +4    ",
+        "details": "00 80 d0 00 01 08 1e 1e 01 04 02 1b 02 28 00"
+    },
+    {
+        "id": 202,
+        "partyIdx": "25a",
+        "idStr": "00ca",
+        "name": "Club +4             ",
+        "details": "00 80 d0 00 01 09 23 23 01 04 02 1c 02 96 00"
+    },
+    {
+        "id": 203,
+        "partyIdx": "25c",
+        "idStr": "00cb",
+        "name": "Hammer +4           ",
+        "details": "00 80 d0 00 01 0a 28 23 01 04 02 44 02 e1 00"
+    },
+    {
+        "id": 204,
+        "partyIdx": "25e",
+        "idStr": "00cc",
+        "name": "Mace +4             ",
+        "details": "00 80 d2 00 01 0b 28 28 01 04 02 44 02 c6 01"
+    },
+    {
+        "id": 205,
+        "partyIdx": "260",
+        "idStr": "00cd",
+        "name": "Silver Mace +4      ",
+        "details": "00 80 d0 00 01 0a 23 28 01 04 02 1f 02 fc 00"
+    },
+    {
+        "id": 206,
+        "partyIdx": "262",
+        "idStr": "00ce",
+        "name": "Flail +4            ",
+        "details": "00 80 d0 00 02 0d 3c 37 02 04 02 47 02 73 03"
+    },
+    {
+        "id": 207,
+        "partyIdx": "264",
+        "idStr": "00cf",
+        "name": "Morning Star +4     ",
+        "details": "00 80 d0 00 01 07 14 1e 01 04 02 18 02 28 00"
+    },
+    {
+        "id": 208,
+        "partyIdx": "266",
+        "idStr": "00d0",
+        "name": "Knife +4            ",
+        "details": "00 80 d1 00 01 0a 28 2d 01 04 02 22 02 2f 01"
+    },
+    {
+        "id": 209,
+        "partyIdx": "268",
+        "idStr": "00d1",
+        "name": "Short Sword +4      ",
+        "details": "00 80 d0 00 02 0b 2d 2d 01 04 02 25 02 7a 01"
+    },
+    {
+        "id": 210,
+        "partyIdx": "26a",
+        "idStr": "00d2",
+        "name": "Spear +4            ",
+        "details": "00 80 d2 00 02 0c 2d 32 01 04 02 25 02 f0 04"
+    },
+    {
+        "id": 211,
+        "partyIdx": "26c",
+        "idStr": "00d3",
+        "name": "Silver Spear +4     ",
+        "details": "00 80 d0 00 02 0f 32 37 01 04 02 25 02 dd 0b"
+    },
+    {
+        "id": 212,
+        "partyIdx": "26e",
+        "idStr": "00d4",
+        "name": "Gold Spear +4       ",
+        "details": "00 80 d0 00 01 09 19 1e 01 04 02 2f 02 7b 00"
+    },
+    {
+        "id": 213,
+        "partyIdx": "270",
+        "idStr": "00d5",
+        "name": "Hand Axe +4         ",
+        "details": "00 80 d1 00 01 0b 32 2d 01 04 02 22 02 f9 01"
+    },
+    {
+        "id": 214,
+        "partyIdx": "272",
+        "idStr": "00d6",
+        "name": "Broad Sword +4      ",
+        "details": "00 80 d1 00 01 0e 37 37 01 04 02 22 02 f0 04"
+    },
+    {
+        "id": 215,
+        "partyIdx": "274",
+        "idStr": "00d7",
+        "name": "Long Sword +4       ",
+        "details": "00 80 d3 00 01 0f 3c 37 01 04 02 22 02 d7 0d"
+    },
+    {
+        "id": 216,
+        "partyIdx": "276",
+        "idStr": "00d8",
+        "name": "Silver Sword +4     ",
+        "details": "00 80 d0 00 01 0e 3c 37 02 04 02 2f 02 89 05"
+    },
+    {
+        "id": 217,
+        "partyIdx": "278",
+        "idStr": "00d9",
+        "name": "Battle Axe +4       ",
+        "details": "00 80 d0 00 02 11 4b 4b 02 04 02 30 02 e2 1d"
+    },
+    {
+        "id": 218,
+        "partyIdx": "27a",
+        "idStr": "00da",
+        "name": "Halberd +4          ",
+        "details": "00 80 d1 00 01 13 46 46 02 04 02 22 02 8c 23"
+    },
+    {
+        "id": 219,
+        "partyIdx": "27c",
+        "idStr": "00db",
+        "name": "2 Handed Sword +4   ",
+        "details": "00 80 d0 00 03 07 19 23 02 04 02 33 02 49 00"
+    },
+    {
+        "id": 220,
+        "partyIdx": "27e",
+        "idStr": "00dc",
+        "name": "Sling Shot +4       ",
+        "details": "00 80 d0 00 03 06 1e 28 01 04 02 90 02 09 00"
+    },
+    {
+        "id": 221,
+        "partyIdx": "280",
+        "idStr": "00dd",
+        "name": "Darts +4            ",
+        "details": "00 80 da 00 03 0c 3c 3c 02 04 02 3a 02 e0 0b"
+    },
+    {
+        "id": 222,
+        "partyIdx": "282",
+        "idStr": "00de",
+        "name": "Silver Bow +4       ",
+        "details": "00 80 d8 00 03 09 2d 2d 02 04 02 3a 02 fe 01"
+    },
+    {
+        "id": 223,
+        "partyIdx": "284",
+        "idStr": "00df",
+        "name": "Short Bow +4        ",
+        "details": "00 80 d8 00 03 0b 37 37 02 04 02 3a 02 08 07"
+    },
+    {
+        "id": 224,
+        "partyIdx": "286",
+        "idStr": "00e0",
+        "name": "Long Bow +4         ",
+        "details": "00 80 d4 00 04 0d 41 41 02 04 02 3d 02 f1 0e"
+    },
+    {
+        "id": 225,
+        "partyIdx": "288",
+        "idStr": "00e1",
+        "name": "Cross Bow +4        ",
+        "details": "00 20 d0 00 00 09 19 00 00 05 02 62 02 e1 00"
+    },
+    {
+        "id": 226,
+        "partyIdx": "28a",
+        "idStr": "00e2",
+        "name": "Wooden Shield +5    ",
+        "details": "00 20 d0 00 00 0b 23 00 00 05 02 58 02 c6 01"
+    },
+    {
+        "id": 227,
+        "partyIdx": "28c",
+        "idStr": "00e3",
+        "name": "Copper Shield +5    ",
+        "details": "00 20 d0 00 00 0d 32 00 00 05 02 50 02 7e 04"
+    },
+    {
+        "id": 228,
+        "partyIdx": "28e",
+        "idStr": "00e4",
+        "name": "Steel Shield +5     ",
+        "details": "00 20 d0 00 00 0f 3c 00 00 05 02 40 02 f6 0e"
+    },
+    {
+        "id": 229,
+        "partyIdx": "290",
+        "idStr": "00e5",
+        "name": "Silver Shield +5    ",
+        "details": "00 20 d0 00 00 11 46 00 00 05 02 5e 02 97 1d"
+    },
+    {
+        "id": 230,
+        "partyIdx": "292",
+        "idStr": "00e6",
+        "name": "Gold Shield +5      ",
+        "details": "00 40 d0 00 00 06 00 14 00 05 02 6c 02 3c 00"
+    },
+    {
+        "id": 231,
+        "partyIdx": "294",
+        "idStr": "00e7",
+        "name": "Cloth Armor +5      ",
+        "details": "00 40 d0 00 00 08 00 19 00 05 02 6f 02 96 00"
+    },
+    {
+        "id": 232,
+        "partyIdx": "296",
+        "idStr": "00e8",
+        "name": "Robes +5            ",
+        "details": "00 40 d0 00 00 0b 00 23 00 05 02 72 02 7a 01"
+    },
+    {
+        "id": 233,
+        "partyIdx": "298",
+        "idStr": "00e9",
+        "name": "Leather Armor +5    ",
+        "details": "00 40 d0 00 00 0e 00 2d 00 05 02 75 02 8e 03"
+    },
+    {
+        "id": 234,
+        "partyIdx": "29a",
+        "idStr": "00ea",
+        "name": "Ring Mail Armor +5  ",
+        "details": "00 40 d0 00 00 11 00 32 00 05 02 75 02 ee 05"
+    },
+    {
+        "id": 235,
+        "partyIdx": "29c",
+        "idStr": "00eb",
+        "name": "Scale Mail Armor +5 ",
+        "details": "00 40 d0 00 00 14 00 37 00 05 02 75 02 f6 0e"
+    },
+    {
+        "id": 236,
+        "partyIdx": "29e",
+        "idStr": "00ec",
+        "name": "Chain Mail Armor +5 ",
+        "details": "00 40 d0 00 00 17 00 41 00 05 02 75 02 ea 24"
+    },
+    {
+        "id": 237,
+        "partyIdx": "2a0",
+        "idStr": "00ed",
+        "name": "Splint Mail Armor +5",
+        "details": "00 40 d0 00 00 1a 00 46 00 05 02 43 02 86 3d"
+    },
+    {
+        "id": 238,
+        "partyIdx": "2a2",
+        "idStr": "00ee",
+        "name": "Field Plate Armor +5",
+        "details": "00 40 d0 00 00 1e 00 4b 00 05 02 43 02 70 94"
+    },
+    {
+        "id": 239,
+        "partyIdx": "2a4",
+        "idStr": "00ef",
+        "name": "Full Plate Armor +5 ",
+        "details": "00 80 d0 00 01 09 19 1e 01 05 02 15 02 6d 00"
+    },
+    {
+        "id": 240,
+        "partyIdx": "2a6",
+        "idStr": "00f0",
+        "name": "Staff +5            ",
+        "details": "00 80 d0 00 01 09 14 1e 01 05 02 18 02 5a 00"
+    },
+    {
+        "id": 241,
+        "partyIdx": "2a8",
+        "idStr": "00f1",
+        "name": "Dagger +5           ",
+        "details": "00 80 d2 00 01 0a 14 23 01 05 02 18 02 7a 01"
+    },
+    {
+        "id": 242,
+        "partyIdx": "2aa",
+        "idStr": "00f2",
+        "name": "Silver Dagger +5    ",
+        "details": "00 80 d0 00 01 09 1e 1e 01 05 02 1b 02 3c 00"
+    },
+    {
+        "id": 243,
+        "partyIdx": "2ac",
+        "idStr": "00f3",
+        "name": "Club +5             ",
+        "details": "00 80 d0 00 01 0a 23 23 01 05 02 1c 02 e1 00"
+    },
+    {
+        "id": 244,
+        "partyIdx": "2ae",
+        "idStr": "00f4",
+        "name": "Hammer +5           ",
+        "details": "00 80 d0 00 01 0b 28 23 01 05 02 44 02 51 01"
+    },
+    {
+        "id": 245,
+        "partyIdx": "2b0",
+        "idStr": "00f5",
+        "name": "Mace +5             ",
+        "details": "00 80 d2 00 01 0c 28 28 01 05 02 44 02 a9 02"
+    },
+    {
+        "id": 246,
+        "partyIdx": "2b2",
+        "idStr": "00f6",
+        "name": "Silver Mace +5      ",
+        "details": "00 80 d0 00 01 0b 23 28 01 05 02 1f 02 7a 01"
+    },
+    {
+        "id": 247,
+        "partyIdx": "2b4",
+        "idStr": "00f7",
+        "name": "Flail +5            ",
+        "details": "00 80 d0 00 02 0e 3c 37 02 05 02 47 02 2c 05"
+    },
+    {
+        "id": 248,
+        "partyIdx": "2b6",
+        "idStr": "00f8",
+        "name": "Morning Star +5     ",
+        "details": "00 80 d0 00 01 08 14 1e 01 05 02 18 02 3c 00"
+    },
+    {
+        "id": 249,
+        "partyIdx": "2b8",
+        "idStr": "00f9",
+        "name": "Knife +5            ",
+        "details": "00 80 d1 00 01 0b 28 2d 01 05 02 22 02 c6 01"
+    },
+    {
+        "id": 250,
+        "partyIdx": "2ba",
+        "idStr": "00fa",
+        "name": "Short Sword +5      ",
+        "details": "00 80 d0 00 02 0c 2d 2d 01 05 02 25 02 37 02"
+    },
+    {
+        "id": 251,
+        "partyIdx": "2bc",
+        "idStr": "00fb",
+        "name": "Spear +5            ",
+        "details": "00 80 d2 00 02 0d 2d 32 01 05 02 25 02 68 07"
+    },
+    {
+        "id": 252,
+        "partyIdx": "2be",
+        "idStr": "00fc",
+        "name": "Silver Spear +5     ",
+        "details": "00 80 d0 00 02 10 32 37 01 05 02 25 02 cb 11"
+    },
+    {
+        "id": 253,
+        "partyIdx": "2c0",
+        "idStr": "00fd",
+        "name": "Gold Spear +5       ",
+        "details": "00 80 d0 00 01 09 19 1e 01 05 02 2f 02 b8 00"
+    },
+    {
+        "id": 254,
+        "partyIdx": "2c2",
+        "idStr": "00fe",
+        "name": "Hand Axe +5         ",
+        "details": "00 80 d1 00 01 0c 32 2d 01 05 02 22 02 f5 02"
+    },
+    {
+        "id": 255,
+        "partyIdx": "2c4",
+        "idStr": "00ff",
+        "name": "Broad Sword +5      ",
+        "details": "00 80 d1 00 01 0f 37 37 01 05 02 22 02 68 07"
+    },
+    {
+        "id": 256,
+        "partyIdx": "2c6",
+        "idStr": "0100",
+        "name": "Long Sword +5       ",
+        "details": "00 80 d3 00 01 10 3c 37 01 05 02 22 02 c2 14"
+    },
+    {
+        "id": 257,
+        "partyIdx": "2c8",
+        "idStr": "0101",
+        "name": "Silver Sword +5     ",
+        "details": "00 80 d0 00 01 0f 3c 37 02 05 02 2f 02 4d 08"
+    },
+    {
+        "id": 258,
+        "partyIdx": "2ca",
+        "idStr": "0102",
+        "name": "Battle Axe +5       ",
+        "details": "00 80 d0 00 02 12 4b 4b 02 05 02 30 02 ec 2c"
+    },
+    {
+        "id": 259,
+        "partyIdx": "2cc",
+        "idStr": "0103",
+        "name": "Halberd +5          ",
+        "details": "00 80 d1 00 01 14 46 46 02 05 02 22 02 52 35"
+    },
+    {
+        "id": 260,
+        "partyIdx": "2ce",
+        "idStr": "0104",
+        "name": "2 Handed Sword +5   ",
+        "details": "00 80 d0 00 03 08 19 23 02 05 02 33 02 6d 00"
+    },
+    {
+        "id": 261,
+        "partyIdx": "2d0",
+        "idStr": "0105",
+        "name": "Sling Shot +5       ",
+        "details": "00 80 d0 00 03 07 1e 28 01 05 02 90 02 0d 00"
+    },
+    {
+        "id": 262,
+        "partyIdx": "2d2",
+        "idStr": "0106",
+        "name": "Darts +5            ",
+        "details": "00 80 da 00 03 0d 3c 3c 02 05 02 3a 02 d0 11"
+    },
+    {
+        "id": 263,
+        "partyIdx": "2d4",
+        "idStr": "0107",
+        "name": "Silver Bow +5       ",
+        "details": "00 80 d8 00 03 0a 2d 2d 02 05 02 3a 02 fd 02"
+    },
+    {
+        "id": 264,
+        "partyIdx": "2d6",
+        "idStr": "0108",
+        "name": "Short Bow +5        ",
+        "details": "00 80 d8 00 03 0c 37 37 02 05 02 3a 02 8c 0a"
+    },
+    {
+        "id": 265,
+        "partyIdx": "2d8",
+        "idStr": "0109",
+        "name": "Long Bow +5         ",
+        "details": "00 80 d4 00 04 0e 41 41 02 05 02 3d 02 76 16"
+    },
+    {
+        "id": 266,
+        "partyIdx": "2da",
+        "idStr": "010a",
+        "name": "Cross Bow +5        ",
+        "details": "00 10 90 04 00 00 00 00 00 00 02 d0 01 14 00"
+    },
+    {
+        "id": 267,
+        "partyIdx": "2dc",
+        "idStr": "010b",
+        "name": "Mining Tools        ",
+        "details": "00 02 b0 04 00 00 00 00 00 00 02 df 01 1e 00"
+    },
+    {
+        "id": 268,
+        "partyIdx": "2de",
+        "idStr": "010c",
+        "name": "Lock Pick Set       ",
+        "details": "00 02 90 04 00 00 00 00 00 00 02 da 01 fa 00"
+    },
+    {
+        "id": 269,
+        "partyIdx": "2e0",
+        "idStr": "010d",
+        "name": "Jewels              ",
+        "details": "00 12 30 04 00 00 00 00 00 00 02 db 01 0f 00"
+    },
+    {
+        "id": 270,
+        "partyIdx": "2e2",
+        "idStr": "010e",
+        "name": "Torches             ",
+        "details": "00 02 30 04 00 00 00 00 00 00 02 d5 01 05 00"
+    },
+    {
+        "id": 271,
+        "partyIdx": "2e4",
+        "idStr": "010f",
+        "name": "Coil of Rope        ",
+        "details": "00 02 20 00 00 00 00 00 00 00 02 4a 02 0a 00"
+    },
+    {
+        "id": 272,
+        "partyIdx": "2e6",
+        "idStr": "0110",
+        "name": "Golden Key          ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 d9 01 00 00"
+    },
+    {
+        "id": 273,
+        "partyIdx": "2e8",
+        "idStr": "0111",
+        "name": "Zamora's Journal    ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 9d 02 00 00"
+    },
+    {
+        "id": 274,
+        "partyIdx": "2ea",
+        "idStr": "0112",
+        "name": "Healing Stone       ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 f4 01 00 00"
+    },
+    {
+        "id": 275,
+        "partyIdx": "2ec",
+        "idStr": "0113",
+        "name": "Amulet of Anatolay  ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 0b 02 28 00"
+    },
+    {
+        "id": 276,
+        "partyIdx": "2ee",
+        "idStr": "0114",
+        "name": "Black Potion        ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 e6 01 c8 00"
+    },
+    {
+        "id": 277,
+        "partyIdx": "2f0",
+        "idStr": "0115",
+        "name": "Gray Potion         ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 e9 01 f4 01"
+    },
+    {
+        "id": 278,
+        "partyIdx": "2f2",
+        "idStr": "0116",
+        "name": "White Potion        ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 ed 01 77 01"
+    },
+    {
+        "id": 279,
+        "partyIdx": "2f4",
+        "idStr": "0117",
+        "name": "Red Potion          ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 f0 01 4a 01"
+    },
+    {
+        "id": 280,
+        "partyIdx": "2f6",
+        "idStr": "0118",
+        "name": "Pink Potion         ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 f3 01 dc 05"
+    },
+    {
+        "id": 281,
+        "partyIdx": "2f8",
+        "idStr": "0119",
+        "name": "Purple Potion       ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 f7 01 fa 00"
+    },
+    {
+        "id": 282,
+        "partyIdx": "2fa",
+        "idStr": "011a",
+        "name": "Green Potion        ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 fa 01 a0 00"
+    },
+    {
+        "id": 283,
+        "partyIdx": "2fc",
+        "idStr": "011b",
+        "name": "Brown Potion        ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 fd 01 b4 00"
+    },
+    {
+        "id": 284,
+        "partyIdx": "2fe",
+        "idStr": "011c",
+        "name": "Gold Potion         ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 07 02 96 00"
+    },
+    {
+        "id": 285,
+        "partyIdx": "300",
+        "idStr": "011d",
+        "name": "Silver Potion       ",
+        "details": "00 08 b0 07 00 00 00 00 00 00 02 08 02 af 00"
+    },
+    {
+        "id": 286,
+        "partyIdx": "302",
+        "idStr": "011e",
+        "name": "Blue Potion         ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 287,
+        "partyIdx": "304",
+        "idStr": "011f",
+        "name": "Scroll of Holy Rain ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 288,
+        "partyIdx": "306",
+        "idStr": "0120",
+        "name": "Scroll of Death     ",
+        "details": "00 00 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 289,
+        "partyIdx": "308",
+        "idStr": "0121",
+        "name": "Scroll of Egression ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 290,
+        "partyIdx": "30a",
+        "idStr": "0122",
+        "name": "Scroll of Portals   ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 291,
+        "partyIdx": "30c",
+        "idStr": "0123",
+        "name": "Scroll of Revealing ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 292,
+        "partyIdx": "30e",
+        "idStr": "0124",
+        "name": "Scroll of Gravity   ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 293,
+        "partyIdx": "310",
+        "idStr": "0125",
+        "name": "Scroll of Marking   ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 294,
+        "partyIdx": "312",
+        "idStr": "0126",
+        "name": "Scroll of Returning ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 32 00"
+    },
+    {
+        "id": 295,
+        "partyIdx": "314",
+        "idStr": "0127",
+        "name": "Map A1              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 96 00"
+    },
+    {
+        "id": 296,
+        "partyIdx": "316",
+        "idStr": "0128",
+        "name": "Map A2              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 fa 00"
+    },
+    {
+        "id": 297,
+        "partyIdx": "318",
+        "idStr": "0129",
+        "name": "Map A3              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 64 00"
+    },
+    {
+        "id": 298,
+        "partyIdx": "31a",
+        "idStr": "012a",
+        "name": "Map A4              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 c4 09"
+    },
+    {
+        "id": 299,
+        "partyIdx": "31c",
+        "idStr": "012b",
+        "name": "Map A5              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 64 00"
+    },
+    {
+        "id": 300,
+        "partyIdx": "31e",
+        "idStr": "012c",
+        "name": "Map B1              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 64 00"
+    },
+    {
+        "id": 301,
+        "partyIdx": "320",
+        "idStr": "012d",
+        "name": "Map B2              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 96 00"
+    },
+    {
+        "id": 302,
+        "partyIdx": "322",
+        "idStr": "012e",
+        "name": "Map B3              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 fa 00"
+    },
+    {
+        "id": 303,
+        "partyIdx": "324",
+        "idStr": "012f",
+        "name": "Map B4              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 fa 00"
+    },
+    {
+        "id": 304,
+        "partyIdx": "326",
+        "idStr": "0130",
+        "name": "Map B5              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 96 00"
+    },
+    {
+        "id": 305,
+        "partyIdx": "328",
+        "idStr": "0131",
+        "name": "Map C1              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 64 00"
+    },
+    {
+        "id": 306,
+        "partyIdx": "32a",
+        "idStr": "0132",
+        "name": "Map C2              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 4c 1d"
+    },
+    {
+        "id": 307,
+        "partyIdx": "32c",
+        "idStr": "0133",
+        "name": "Map C3              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 4c 1d"
+    },
+    {
+        "id": 308,
+        "partyIdx": "32e",
+        "idStr": "0134",
+        "name": "Map C4              ",
+        "details": "00 04 80 04 00 00 00 00 00 00 02 de 01 4c 1d"
+    },
+    {
+        "id": 309,
+        "partyIdx": "330",
+        "idStr": "0135",
+        "name": "Map C5              ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 310,
+        "partyIdx": "332",
+        "idStr": "0136",
+        "name": "Key of Saccate      ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 311,
+        "partyIdx": "334",
+        "idStr": "0137",
+        "name": "Key of Helsingor    ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 312,
+        "partyIdx": "336",
+        "idStr": "0138",
+        "name": "Key of Port Hope    ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 313,
+        "partyIdx": "338",
+        "idStr": "0139",
+        "name": "Key of Anatolay     ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 314,
+        "partyIdx": "33a",
+        "idStr": "013a",
+        "name": "Key of Devon        ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 315,
+        "partyIdx": "33c",
+        "idStr": "013b",
+        "name": "Key of Duomin       ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 316,
+        "partyIdx": "33e",
+        "idStr": "013c",
+        "name": "Key of Moloch       ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 317,
+        "partyIdx": "340",
+        "idStr": "013d",
+        "name": "Key of Stachus      ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 01 20 4e"
+    },
+    {
+        "id": 318,
+        "partyIdx": "342",
+        "idStr": "013e",
+        "name": "Key of Mantov       ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 0f 03 00 00"
+    },
+    {
+        "id": 319,
+        "partyIdx": "344",
+        "idStr": "013f",
+        "name": "Horn of encasement  ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d3 01 00 00"
+    },
+    {
+        "id": 320,
+        "partyIdx": "346",
+        "idStr": "0140",
+        "name": "Red Powder          ",
+        "details": "00 01 00 04 00 00 00 00 00 00 02 e3 01 00 00"
+    },
+    {
+        "id": 321,
+        "partyIdx": "348",
+        "idStr": "0141",
+        "name": "Work of Art         ",
+        "details": "00 02 20 00 00 00 00 00 00 00 02 ea 01 b8 0b"
+    },
+    {
+        "id": 322,
+        "partyIdx": "34a",
+        "idStr": "0142",
+        "name": "Grapnel Arrow       ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 36 02 00 00"
+    },
+    {
+        "id": 323,
+        "partyIdx": "34c",
+        "idStr": "0143",
+        "name": "Red Gem             ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d4 01 00 00"
+    },
+    {
+        "id": 324,
+        "partyIdx": "34e",
+        "idStr": "0144",
+        "name": "Bysette's Ring      ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 12 02 00 00"
+    },
+    {
+        "id": 325,
+        "partyIdx": "350",
+        "idStr": "0145",
+        "name": "Vial of Magic Liquid",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 89 02 00 00"
+    },
+    {
+        "id": 326,
+        "partyIdx": "352",
+        "idStr": "0146",
+        "name": "Hourglass           ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 8a 02 00 00"
+    },
+    {
+        "id": 327,
+        "partyIdx": "354",
+        "idStr": "0147",
+        "name": "Sands of Time       ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 8d 02 00 00"
+    },
+    {
+        "id": 328,
+        "partyIdx": "356",
+        "idStr": "0148",
+        "name": "Cynotaur's horn     ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 94 02 00 00"
+    },
+    {
+        "id": 329,
+        "partyIdx": "358",
+        "idStr": "0149",
+        "name": "Amulet of Lava      ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 97 02 00 00"
+    },
+    {
+        "id": 330,
+        "partyIdx": "35a",
+        "idStr": "014a",
+        "name": "Magical Branch      ",
+        "details": "00 01 10 00 00 00 00 00 00 00 02 9a 02 00 00"
+    },
+    {
+        "id": 331,
+        "partyIdx": "35c",
+        "idStr": "014b",
+        "name": "Gabriel's Flower    ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 d8 01 00 00"
+    },
+    {
+        "id": 332,
+        "partyIdx": "35e",
+        "idStr": "014c",
+        "name": "Flagell's scroll    ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 dc 01 00 00"
+    },
+    {
+        "id": 333,
+        "partyIdx": "360",
+        "idStr": "014d",
+        "name": "Peace treaty        ",
+        "details": "00 01 10 00 00 00 00 00 00 00 02 b2 02 1e 00"
+    },
+    {
+        "id": 334,
+        "partyIdx": "362",
+        "idStr": "014e",
+        "name": "Bottle of sweet wine",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 dc 01 00 00"
+    },
+    {
+        "id": 335,
+        "partyIdx": "364",
+        "idStr": "014f",
+        "name": "Signed Peace Treaty ",
+        "details": "00 02 90 04 00 00 00 00 00 00 02 cf 01 14 00"
+    },
+    {
+        "id": 336,
+        "partyIdx": "366",
+        "idStr": "0150",
+        "name": "Empty Chest         ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 cf 02 00 00"
+    },
+    {
+        "id": 337,
+        "partyIdx": "368",
+        "idStr": "0151",
+        "name": "Ring of Protection  ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 d0 02 00 00"
+    },
+    {
+        "id": 338,
+        "partyIdx": "36a",
+        "idStr": "0152",
+        "name": "Wand of Strength    ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 d3 02 00 00"
+    },
+    {
+        "id": 339,
+        "partyIdx": "36c",
+        "idStr": "0153",
+        "name": "Staff of Lighting   ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 d6 02 00 00"
+    },
+    {
+        "id": 340,
+        "partyIdx": "36e",
+        "idStr": "0154",
+        "name": "Stone of Blindness  ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 d9 02 00 00"
+    },
+    {
+        "id": 341,
+        "partyIdx": "370",
+        "idStr": "0155",
+        "name": "Dispelling Gem      ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 da 02 00 00"
+    },
+    {
+        "id": 342,
+        "partyIdx": "372",
+        "idStr": "0156",
+        "name": "Poison Trident      ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 dd 02 00 00"
+    },
+    {
+        "id": 343,
+        "partyIdx": "374",
+        "idStr": "0157",
+        "name": "Ice Medallion       ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 e0 02 00 00"
+    },
+    {
+        "id": 344,
+        "partyIdx": "376",
+        "idStr": "0158",
+        "name": "Healing Ointment    ",
+        "details": "00 01 20 00 00 00 00 00 00 00 02 e3 02 00 00"
+    },
+    {
+        "id": 345,
+        "partyIdx": "378",
+        "idStr": "0159",
+        "name": "Crystal of Power    ",
+        "details": "00 01 10 00 00 00 00 00 00 00 02 f7 02 00 00"
+    },
+    {
+        "id": 346,
+        "partyIdx": "37a",
+        "idStr": "015a",
+        "name": "Ancient Scroll      ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 02 03 00 00"
+    },
+    {
+        "id": 347,
+        "partyIdx": "37c",
+        "idStr": "015b",
+        "name": "Giant glass         ",
+        "details": "00 01 00 00 00 00 00 00 00 00 02 0f 03 00 00"
+    },
+    {
+        "id": 348,
+        "partyIdx": "37e",
+        "idStr": "015c",
+        "name": "Horn containing Orb ",
+        "details": "00 02 30 00 00 00 00 00 00 00 02 15 03 c8 00"
+    },
+    {
+        "id": 349,
+        "partyIdx": "380",
+        "idStr": "015d",
+        "name": "Flaming Oil Flask   ",
+        "details": "00 01 00 00 00 08 00 00 00 00 00 00 00 00 00"
+    }
+]

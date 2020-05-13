@@ -1,0 +1,14 @@
+SW - "manager"
+PROG0 - pregame
+PROG1 - battlescape
+PROG2 - 
+PROG3 - 
+PROG4 - overworld / walking around
+PROG5 - character overview
+PROG6 - 'book' screen (rest, save / exit)
+PROG7 - drop screen
+PROG8 - cast spell screen
+PROG9 - 
+PROG10 - 
+PROG11 - inventory screen
+

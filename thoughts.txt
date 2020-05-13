@@ -1,0 +1,27 @@
+Mantov OOB:
+Side-stepping out of Mantov will put you in a game space between all indoor areas.
+You can reenter the normal game world by walking into another towns entry, or by entering a portal door.
+
+If you continue outside the map area it gets a bit trippy. When you walk to the far left you can step over to the other side of the map, walk a little bit farther to the left and then head back. At this point you walk around in an area of the map that should be the far left side of the map, but its showing tiles from farther right. If you save and reload, you'll get restored at the "correct" position in the far left. This can be used to clip through areas.. It's hard to explain!
+
+"Infinite Items" Glitch:
+After using items that return you to the inventory screen after usage,
+Before closing the inventory screen, open a 'move gold' dialog (by having gold and a non-full gold chest in inv.)
+if you cancel that dialog the initial inventory state is reset.
+
+Note, I Believe this also works if you use items and then close the menu and look at one of the broken tiles. Seems to restore inventory state.
+
+Double Stat Effect:
+If you use a stat-increase potion when your next increase will put you above 127, your stat becomes 250 instead.
+Using a potion after that will put your stat at <10, so, thats bad, dont do that.
+
+Dummy Effect:
+There's an intelligence value.. I think it's 127 but not sure, where if you increase it further your magic power drops overflows and you can't cast spells.
+
+
+--
+ANATOLAY:
+Alchemist with Pink + Red Potion
+- Red P (375g)
+- Pink P (330g)
+Enchanter in basement, +1/+2/+3

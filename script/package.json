@@ -1,0 +1,15 @@
+{
+  "name": "yendor1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "lodash": "^4.17.10"
+  }
+}
