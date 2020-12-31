@@ -1,0 +1,1 @@
+This SAVEGAME.A corrects the missing Demonacus enemy, making the game beatable.
