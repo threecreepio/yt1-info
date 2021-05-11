@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^1.6.11",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.21"
   }
 }
